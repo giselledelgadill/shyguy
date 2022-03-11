@@ -1,0 +1,10 @@
+.hear{
+    position:fixed;
+    background-color: dodgerblue;
+    bottom:0;
+    width:100%;
+    color:black;
+}
+body{
+color:dodgerblue;
+}
